@@ -3,7 +3,7 @@ from backend.cycle import calculate_phase
 from backend.agent import build_knowledge_base, build_agent
 
 # Test your own data
-last_period = date(2025, 4, 20)  # Change to your actual date
+last_period = date(2026, 5, 1)  # Change to your actual date
 cycle_length = 28
 sport = "Marathon running and open water swimming"
 conditions = "None"
